@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akshatbarwal
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning backend web development
-- 💞️ I’m looking to collaborate on nothing currently 
 - 📫 How to reach me email:barwalakshat10@gmail.com 
 
 <!---

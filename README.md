@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @akshatbarwal
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning backend web development
-- 📫 How to reach me email:barwalakshat10@gmail.com 
+- 📫 How to reach me email:akshatbarwal1320030@gmail.com 
 
 <!---
 akshatbarwal/akshatbarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

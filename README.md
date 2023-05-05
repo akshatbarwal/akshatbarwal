@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshatbarwal
-- 📫 How to reach me email:akshatbarwal1320030@gmail.com 
+- 📫 How to reach me email:akshatbarwal132003@gmail.com 
 
 <!---
 akshatbarwal/akshatbarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
